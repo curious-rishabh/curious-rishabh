@@ -1,5 +1,3 @@
-[![@curious_rishabh's Holopin board](https://holopin.io/api/user/board?user=curious_rishabh)](https://holopin.io/@curious_rishabh)
-
 ### Hey there :wave:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Rishabh+Baghel)](https://git.io/typing-svg)
