@@ -6,15 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curious-rishabh&label=Views&color=blue&style=plastic" alt="curious-rishabh" /> </p>
 
-<p align="left">
-<a href="https://linkedin.com/in/rishabhbaghel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabhbaghel" height="30" width="40" /></a>
-
-<a href="https://twitter.com/curious_rishabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="curious_rishabh" height="30" width="40" /></a>
-
-<a href="https://curious-rishabh.github.io/rb.github.io/">
-  <img align="centre" alt="Rishabh's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
-</a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
@@ -27,7 +18,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 <br/>
-<br/>
 
 - 🏢 I am a Aspiring Software Engineer
 - 🏫 2023 B.Tech. graduate
@@ -37,3 +27,13 @@
 - 🙋‍ More about me: Visit my [website](https://curious-rishabh.github.io/rb.github.io/)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/rishabhbaghel/)
 - 📫 How to reach me :) rishabhbaghelram@gmail.com
+
+<p align="left">
+<a href="https://linkedin.com/in/rishabhbaghel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabhbaghel" height="30" width="40" /></a>
+
+<a href="https://twitter.com/curious_rishabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="curious_rishabh" height="30" width="40" /></a>
+
+<a href="https://curious-rishabh.github.io/rb.github.io/">
+  <img align="centre" alt="Rishabh's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
+</a>
+</p>
