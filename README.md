@@ -12,8 +12,7 @@
 <a href="https://twitter.com/curious_rishabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="curious_rishabh" height="30" width="40" /></a>
 
 <a href="https://curious-rishabh.github.io/rb.github.io/">
-  <kbd>
-  <img align="centre" alt="shumbul's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
+  <img align="centre" alt="Rishabh's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
 </a>
 </p>
 
