@@ -26,7 +26,7 @@
 - 💞️ I’m looking to collaborate on cool projects
 - 👯 Pronouns: He/Him
 - 🙋‍ More about me: Visit my [website](https://curious-rishabh.github.io/rb.github.io/)
-- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/rishabhbaghel/)
+- 🖇 Connect me on [LinkedIn](https://www.linkedin.com/in/rishabhbaghel/)
 
   
 <h3 align="left">Connect with me:</h3>
