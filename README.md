@@ -5,7 +5,7 @@
 ###### Glad to see you here :heart:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curious-rishabh&label=Views&color=blue&style=plastic" alt="curious-rishabh" /> </p>
-- 📫 How to reach me **rishabhbaghel80@gmail.com**
+- How to reach me 📫 ***rishabhbaghel80@gmail.com***
 
 
 <h3 align="left">Languages and Tools:</h3>
