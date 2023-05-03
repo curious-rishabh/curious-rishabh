@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on cool projects
 - 👯 Pronouns: He/Him
 - 🙋‍ More about me: Visit my [Portfolio](https://curious-rishabh.tech)
-- 🖇 Connect me on [LinkedIn](https://www.linkedin.com/in/rishabhbaghel/)
+- 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhbaghel/)
 - 📫 How to reach me **rishabhbaghel80@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
