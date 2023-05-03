@@ -5,8 +5,15 @@
 ###### Glad to see you here :heart:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curious-rishabh&label=Views&color=blue&style=plastic" alt="curious-rishabh" /> </p>
-- How to reach me 📫 ***rishabhbaghel80@gmail.com***
 
+- 🏢 I am Software Engineer
+- 🏫 2023 B.Tech. graduate
+- 💻 Former Intern at Internshala
+- 💞️ I’m looking to collaborate on cool projects
+- 👯 Pronouns: He/Him
+- 🙋‍ More about me: Visit my [Portfolio](https://curious-rishabh.tech)
+- 🖇 Connect me on [LinkedIn](https://www.linkedin.com/in/rishabhbaghel/)
+- 📫 How to reach me **rishabhbaghel80@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
@@ -19,14 +26,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 <br/>
-
-- 🏢 I am Software Engineer
-- 🏫 2023 B.Tech. graduate
-- 💻 Former Intern at Internshala
-- 💞️ I’m looking to collaborate on cool projects
-- 👯 Pronouns: He/Him
-- 🙋‍ More about me: Visit my [website](https://curious-rishabh.github.io/rb.github.io/)
-- 🖇 Connect me on [LinkedIn](https://www.linkedin.com/in/rishabhbaghel/)
 
   
 <h3 align="left">Connect with me:</h3>
