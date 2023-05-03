@@ -37,3 +37,5 @@
 <h3 align="left">Quotes I live by:</h3>
 - 💬 Seek Wealth not money or status </br>
 - 💬 Learn to sell. Learn to build. If you can do both, you will be unstoppable.
+
+[![Watch the video](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif)](https://www.linkedin.com/in/rishabhbaghel)
