@@ -1,11 +1,8 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Curious+Rishabh)](https://git.io/typing-svg)
-
-
 <div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Curious+Rishabh)](https://git.io/typing-svg)
   <img src ="./banner.png" />
-
 </div>
 
  <br/>
