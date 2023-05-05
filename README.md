@@ -1,6 +1,7 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Curious+Rishabh)](https://git.io/typing-svg)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=curious-rishabh&label=Profile%20views&color=0e75b6&style=flat" alt="curious-rishabh" /> </p>
 
 <div align="center">
   <img src ="./banner.png" />
