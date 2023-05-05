@@ -16,8 +16,6 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://curious-rishabh.tech)**
 
-- 🔭 I’m currently working on `Something Interesting`.
-
 - 🌱 I’m currently learning `MERN Stack`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
