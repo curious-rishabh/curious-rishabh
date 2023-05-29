@@ -33,7 +33,6 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/wervlad)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="28px"/>
 
@@ -62,11 +61,12 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="28px"/>
 
 ### Tools
+<p>
 <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="28px"/>
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="28px"/>
  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="28px"/>
-
+</p>
 <br>
 
 ### ❤️ Let's get connected
@@ -85,16 +85,16 @@
 
 <p align="center">
   <a href="https://github.com/curious-rishabh">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curious-rishabh&theme=highcontrast" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curious-rishabh&theme=default" />
   </a>
   <a href="https://github.com/curious-rishabh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=curious-rishabh&hide_border=true&card_width=338&theme=highcontrast" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=curious-rishabh&hide_border=true&card_width=338&theme=default" />
   </a>
   <a href="https://github.com/curious-rishabh">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=curious-rishabh&stheme=highcontrast" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=curious-rishabh&stheme=default" />
   </a>
   <a href="https://github.com/curious-rishabh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curious-rishabh&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=highcontrast" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curious-rishabh&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=default" />
   </a>
 </p>
 
